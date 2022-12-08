@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1001411677023",
+    "project_id": "verse-city-database",
+    "storage_bucket": "verse-city-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001411677023:android:55517c932f395c6d7404ea",
+        "android_client_info": {
+          "package_name": "com.versecity.campusverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsfA_qJaT3jn1n8a2jsDKFvxjlyBaWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001411677023:android:b9dfced380bc7fa47404ea",
+        "android_client_info": {
+          "package_name": "com.versecity.shareverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsfA_qJaT3jn1n8a2jsDKFvxjlyBaWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001411677023:android:6355c0a82d7f06227404ea",
+        "android_client_info": {
+          "package_name": "com.versecitytech.shareverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsfA_qJaT3jn1n8a2jsDKFvxjlyBaWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
